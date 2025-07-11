@@ -27,7 +27,7 @@
 | Project | Description |
 |--------|-------------|
 | **AI Expense Tracker** | GPay-integrated assistant that categorizes spending and predicts budgets using AI (Agentic AI Day 2025) |
-| **Driver Behavior Monitoring System** | Uses Unity 3D + Tobii Glasses + Logitech G29 to track and analyze driver behavior |
+| **Driver Behavior Monitoring System** | Uses Unity 3D + Tobii Glasses + Logitech G29 to track and analyze driver behavior + Motion Platform |
 | **LugMate** | Smart human-following trolley using ultrasonic sensors, GPS, and motor control |
 | **PLC Water Filling System** | Tank control automation using ladder logic and relay-based actuator design |
 
