@@ -35,7 +35,7 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn] : gokulavasanns(https://www.linkedin.com/in/gokulavasanns)
+- LinkedIn : [gokulavasanns](https://www.linkedin.com/in/gokulavasanns)
 - ✉️ Email: gokulavasanselvam13@gmail.com
 
 ---
